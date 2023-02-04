@@ -2,7 +2,7 @@ hookfunction(game.Players.LocalPlayer.IsInGroup, function() return true end)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nosssa/NossLock/main/AntiAimViewer"))()
 local Aiming = loadstring(game:HttpGet("https://pastebin.com/raw/3A9wdSkL"))()
 
-Aiming.TeamCheck(false)
+ItWasAimingASMOOO.TeamCheck(false)
 
 
 
