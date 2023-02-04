@@ -1,6 +1,6 @@
 getgenv().OldAimPart = "Head"
 getgenv().AimPart = "Head" -- For R15 Games: {UpperTorso, LowerTorso, HumanoidRootPart, Head} | For R6 Games: {Head, Torso, HumanoidRootPart}  
-    getgenv().AimlockKey = "q"
+    ().AimlockKey = "q"
     getgenv().AimRadius = 50 -- How far away from someones character you want to lock on at
     getgenv().ThirdPerson = true 
     getgenv().FirstPerson = true
